@@ -4,7 +4,7 @@
  - Android
  - AWS
  - Bash
- - Brew Installs
+ - [Brew Installs](/brew/README.md)
  - IOS
  - iTerm
  - JavaScript
