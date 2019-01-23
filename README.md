@@ -12,7 +12,7 @@
  - Python
  - Security
  - [Services](/services/readme.md)
-    > os.mac automator services written in: `bash` and `python` | example: spellcheck word with `bing.com` via curl
+    > automator services written in: `bash` and `python` | example: spellcheck word with `bing.com` via curl
  - SSH
  - TextMate
  - Vim
