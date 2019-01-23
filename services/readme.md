@@ -8,10 +8,6 @@
  - local to user account:
     >  `~/Library/Services/`
 
-## How To: Edit ##
-
-1. Double Click
-
 ### Convert Text: ###
 
-1. [convert: text selection to _lowercase_]("source/convert to lowercase.workflow")
+1. [convert: text selection to _lowercase_](source/convert to lowercase.workflow)
