@@ -9,6 +9,7 @@
 	1. [Casks](/settings/brew.cask.md)
 	1. [Installs](/settings/brew.install.md)
 1. [Developer](/settings/developer.md)
+1. Docker
 1. [Finder](/settings/finder.md)
 1. IOS
 1. iTerm
