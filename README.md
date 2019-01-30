@@ -1,19 +1,24 @@
 # Mac OS Development Environment Setup: #
- > Easy-to-understand instructions with automated setup scripts for developer tools
+ > documenation for developer setup and when possible, automated scripts for setup and installs.
 
- - Android
- - AWS
- - Bash
- - [Brew Installs](/brew/README.md)
- - IOS
- - iTerm
- - JavaScript
- - Mac OS defaults 
- - Python
- - Security
- - [Services](/services/readme.md)
+1. [Apps](/settings/app.installs.md)
+1. Android
+1. AWS
+1. Bash
+1. [Brew: ](/brew/README.md)
+	1. [Casks](/settings/brew.cask.md)
+	1. [Installs](/settings/brew.install.md)
+1. [Developer](/settings/developer.md)
+1. [Finder](/settings/finder.md)
+1. IOS
+1. iTerm
+1. JavaScript
+1. Mac OS defaults 
+1. Python
+1. Security
+1. [Services](/services/readme.md)
     > automator services written in: `bash` and `python` | example: spellcheck word with `bing.com` via curl
- - SSH
- - TextMate
- - Vim
- - Visual Studio
+1. SSH
+1. TextMate
+1. Vim
+1. Visual Studio
