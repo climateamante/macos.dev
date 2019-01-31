@@ -11,7 +11,8 @@
 	- [x] `brew install pup`
 		> html parsing
 	- [x] `brew install go`
-	- [ ] [gdrive](https://github.com/prasmussen/gdrive)
+	- [x] _gdrive_: `brew install gdrive`
+		> [gdrive: settings and setup](/settings/cli.app.gdrive.install.md)
 	- [ ] gpg
 	- [ ] gsplit
 	- [ ] highlight

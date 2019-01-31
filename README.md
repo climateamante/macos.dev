@@ -5,7 +5,7 @@
 1. Android
 1. AWS
 1. Bash
-1. [Brew: ](/brew/README.md)
+1. [Brew: ](/brew/brew.commands.md)
 	1. [Casks](/settings/brew.cask.md)
 	1. [Installs](/settings/brew.install.md)
 1. [Developer](/settings/developer.md)
