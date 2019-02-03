@@ -1,5 +1,5 @@
 # Mac OS Development Environment Setup: #
- > documenation for developer setup and when possible, automated scripts for setup and installs.
+ > documentation for developer setup and when possible, automated scripts for setup and installs.
 
 1. [Apps](/settings/app.installs.md)
 1. Android
