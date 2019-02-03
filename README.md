@@ -4,7 +4,7 @@
 1. [Apps](/settings/app.installs.md)
 1. Android
 1. AWS
-1. Bash
+1. [Bash](/settings/bash.settings.md)
 1. [Brew: ](/brew/brew.commands.md)
 	1. [Casks](/settings/brew.cask.md)
 	1. [Installs](/settings/brew.install.md)
