@@ -1,17 +1,24 @@
 ### brew: installs
+ > example: `brew install go`
 
  * installs
-	- [x] `brew install coreutils`
-	- [x] `brew install spoof-mac`
-	- [x] `brew install nvm`
+	- [x] `gpg`
+	- [x] `git-crypt`
+		> gpg encrypt specific files with user management for git repositories
+	- [x] `coreutils`
+	- [x] `grip`
+		- _live github api markdown viewer with python localhost_
+		- > example: `grip 8080 --pass 'replace with api key'`
+	- [x] `spoof-mac`
+	- [x] `nvm`
 		> `nvm install 10.15.0` | LTS as of 2018
-	- [x] `brew install jq`
-	- [x] `brew install jsonpp`
-	- [x] `brew install youtube-dl`
-	- [x] `brew install pup`
+	- [x] `jq`
+	- [x] `jsonpp`
+	- [x] `youtube-dl`
+	- [x] `pup`
 		> html parsing
-	- [x] `brew install go`
-	- [x] _gdrive_: `brew install gdrive`
+	- [x] `go`
+	- [x] _gdrive_: `gdrive`
 		> [gdrive: settings and setup](/settings/cli.app.gdrive.install.md)
 	- [ ] gpg
 	- [ ] gsplit
